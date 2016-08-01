@@ -12,8 +12,8 @@ private class OpportunityTriggerTest {
 	static List<Inventory__c> invnfromopp;
 	
 
-
-	//another line added
+	//new line2
+	//another line 
 	/*
 	* create sales user
 	*/
